@@ -5,10 +5,12 @@
 Hi, I'm Riti! A Computer Science and Engineering student passionate about building innovative tech solutions. I love turning ideas into reality through code, exploring new technologies, and creating projects that solve real-world problems. Always learning, always building!  
 
 ### 🚀 Technical Skills  
-- *Languages:* Java, JavaScript, Python, C, C++, SQL  
-- *Frontend:* HTML, CSS, JavaScript, Figma, Canva  
-- *Backend:* Node.js, Express.js  
-- *Database & Tools:* MySQL, Postman, Git, GitHub, VS Code, IntelliJ IDEA  
+- **Languages:** JavaScript, Java, Python, SQL, DSA with Java, OOP, C++, C  
+- **Frameworks & Libraries:** Node.js, Express.js, Tailwind CSS  
+- **Frontend:** HTML, CSS, JavaScript, Figma, Canva  
+- **Backend:** Node.js, Express.js  
+- **APIs:** NewsAPI, WeatherAPI, RESTful APIs  
+- **Databases & Tools:** MongoDB, MySQL, Postman, Git, GitHub, VS Code, IntelliJ IDEA  
 
 ### 🎯 Current Focus  
 - *Building real-world projects*  
