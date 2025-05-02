@@ -17,7 +17,9 @@ Hi, I'm Riti! A Computer Science and Engineering student passionate about buildi
 
 ### 🌟 Projects  
 - *[Spotify Clone](#)* – Currently working on a Spotify clone with interactive UI and real-time playback controls  
-- *[Expense Tracker](#)* – A web app for tracking expenses with data visualization using JavaScript charts  
+- *[Expense Tracker](#)* – A web app for tracking expenses with data visualization using JavaScript charts
+- *[NewsDesk](https://github.com/Riti-Varshney/NewsDesk)* – A live news aggregator web app that fetches real-time news using a public API with dynamic search and filtering  
+- *[SkyCast](https://github.com/Riti-Varshney/SkyCast)* – A sleek weather forecasting app that displays live weather data by location using OpenWeather API
 - *[Dynamic Background Temperature Converter](#)* – A real-time temperature converter with seasonal background changes  
 
 ### 📜 Certifications  
