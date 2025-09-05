@@ -5,13 +5,24 @@
 Hi, I'm Riti! A Computer Science and Engineering student passionate about building innovative tech solutions. I love turning ideas into reality through code, exploring new technologies, and creating projects that solve real-world problems. Always learning, always building!  
 
 ### 🚀 Technical Skills  
-- **Languages:** JavaScript, Java, Python, SQL, DSA with Java, OOP, C++, C  
-- **Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Chart.js, react-sketch-canvas  
-- **Frontend:** HTML, CSS, JavaScript, React.js, Figma, Canva  
-- **Backend:** Node.js, Express.js  
-- **APIs:** NewsAPI, WeatherAPI, RESTful APIs  
-- **Databases & Tools:** MongoDB, MySQL, Postman, Git, GitHub, VS Code, IntelliJ IDEA  
+- **Programming Languages:** JavaScript, Java, Python, SQL, C, C++, DSA (Java)  
+- **Web Development:** React.js, Next.js, Node.js, Express.js, Tailwind CSS, HTML5, CSS3, HTML5 Canvas  
+- **Databases:** MongoDB, MySQL  
+- **APIs & Integration:** RESTful APIs, NewsAPI, WeatherAPI, Gemini API, Chart.js  
+- **Developer Tools:** VS Code, IntelliJ IDEA, Git, GitHub, Postman  
+- **Soft Skills:** Collaboration, Problem Solving, Analytical Thinking, Communication, Adaptability  
 
+### 💼 Experience  
+- **Open Source Contributor – GSSoC & SWoC (2025)**  
+  - Contributed to multiple repositories by enhancing authentication modules, fixing bugs, building APIs, and improving UI/UX.  
+  - Worked in agile teams, applied troubleshooting skills, and followed software engineering best practices.  
+
+- **LivWell – Smart Rental Web App (Hackathon, Apr 2025)**  
+  - Worked as Frontend Developer.  
+
+- **InternSecure – AI Internship Scam Detector (Hackathon, Jul 2025)**  
+  - Built AI-powered web app using Gemini AI and Whois API to detect fake internship listings.  
+  - Designed API architecture, built result page UI, and integrated backend services.  
 
 ### 🎯 Current Focus  
 - *Building real-world projects*  
@@ -26,13 +37,10 @@ Hi, I'm Riti! A Computer Science and Engineering student passionate about buildi
 - *Dynamic Background Temperature Converter* – A real-time temperature converter with seasonal background changes  
 - *Spotify Clone* – Currently working on a Spotify clone with interactive UI and real-time playback controls  
 
-
- 
-
-
 ### 📜 Certifications  
 - *Introduction to Generative AI* – Google  
-- *Postman API Fundamentals Student Expert*  
+- *Postman API Fundamentals Student Expert*
+- *Web Development Hackathon - TuteDude*
 
 ### 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riti-Varshney)  
