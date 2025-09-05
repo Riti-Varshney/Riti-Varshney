@@ -14,8 +14,9 @@ Hi, I'm Riti! A Computer Science and Engineering student passionate about buildi
 
 ### 💼 Experience  
 - **Open Source Contributor – GSSoC & SWoC (2025)**  
-  - Contributed to multiple repositories by enhancing authentication modules, fixing bugs, building APIs, and improving UI/UX.  
-  - Worked in agile teams, applied troubleshooting skills, and followed software engineering best practices.  
+  - Gained hands-on experience with Git and GitHub by raising pull requests, reviewing code.  
+  - Contributed to multiple repositories by fixing bugs, building APIs, and enhancing authentication and UI/UX features.  
+  - Practiced version control, commits, and branching while collaborating with teams in an open-source environment.  
 
 - **LivWell – Smart Rental Web App (Hackathon, Apr 2025)**  
   - Worked as Frontend Developer.  
